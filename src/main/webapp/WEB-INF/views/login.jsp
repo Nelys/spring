@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1> ejemplo </h1>
 
 <p> Esto es una variable desde el controlador: ${variable} </p>
 
